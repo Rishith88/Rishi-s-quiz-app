@@ -1,6 +1,6 @@
 # Rishi's Quiz App 
 
-An interactive web-based trivia quiz application built with HTML5, CSS3, and Vanilla JavaScript. Test your general knowledge against the clock with instant visual feedback and score tracking!
+It is an interactive web based quiz that uses HTML/CSS as it sprogramming langauges with a cool custom a 404 pages and then a cool avengers background which seems inetractuve and you knwo represents my own interests
 
 ##  Features
 
